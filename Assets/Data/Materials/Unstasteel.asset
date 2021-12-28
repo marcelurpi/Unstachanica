@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4cb8b0c7a3f0724186b887460c4fe28, type: 3}
+  m_Name: Unstasteel
+  m_EditorClassIdentifier: 
+  itemName: Unstasteel
+  description: 
+  secondsToExpire: 20
+  obtainedFrom: 1
+  shopPrice: 0
+  machineToCraft: {fileID: 11400000, guid: b0aa4dff7c35e3f4fb7a2247e8d80a3f, type: 2}
+  primaryIngredientToCraft: {fileID: 11400000, guid: fd3e121a657bbca4cb7135a26db30bd8,
+    type: 2}
+  secondaryIngredientToCraft: {fileID: 0}
+  secondsToCraft: 5
+  assemblingZone: 0
+  assemblingLayout: {fileID: 0}
+  secondsToAssemble: 0

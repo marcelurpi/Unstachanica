@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4cb8b0c7a3f0724186b887460c4fe28, type: 3}
+  m_Name: Unstablium
+  m_EditorClassIdentifier: 
+  itemName: Unstablium
+  description: A usable, slightly more stable than its raw counterpart (still not
+    stable enough though)
+  secondsToExpire: 10
+  obtainedFrom: 1
+  shopPrice: 0
+  machineToCraft: {fileID: 11400000, guid: 01e98cdf5c8a37a4cbf23cc67a834141, type: 2}
+  primaryIngredientToCraft: {fileID: 11400000, guid: 52a9607bd79d21c47bf0116825012486,
+    type: 2}
+  secondaryIngredientToCraft: {fileID: 11400000, guid: e3490739d4461b142b0e34de49a8eb13,
+    type: 2}
+  secondsToCraft: 5
+  assemblingZone: 0
+  assemblingLayout: {fileID: 0}
+  secondsToAssemble: 0

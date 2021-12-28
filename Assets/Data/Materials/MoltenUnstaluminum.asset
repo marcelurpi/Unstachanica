@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4cb8b0c7a3f0724186b887460c4fe28, type: 3}
+  m_Name: MoltenUnstaluminum
+  m_EditorClassIdentifier: 
+  itemName: Molten Unstaluminum
+  description: 
+  secondsToExpire: 10
+  obtainedFrom: 1
+  shopPrice: 0
+  machineToCraft: {fileID: 11400000, guid: e0e4c2e052f1bb54d9d174dd9e6e1b19, type: 2}
+  primaryIngredientToCraft: {fileID: 11400000, guid: 30b43a958a57a044bb3e904b6a4dc36d,
+    type: 2}
+  secondaryIngredientToCraft: {fileID: 11400000, guid: 6d9bf3f38cc6f474cb71f95face0282a,
+    type: 2}
+  secondsToCraft: 10
+  assemblingZone: 0
+  assemblingLayout: {fileID: 0}
+  secondsToAssemble: 0

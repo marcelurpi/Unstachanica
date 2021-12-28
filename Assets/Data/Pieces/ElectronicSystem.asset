@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be97298ea811cf4f81460c484b2e84b, type: 3}
+  m_Name: ElectronicSystem
+  m_EditorClassIdentifier: 
+  itemName: Electronic System
+  description: 
+  secondsToExpire: 20
+  obtainedFrom: 2
+  shopPrice: 0
+  machineToCraft: {fileID: 0}
+  primaryIngredientToCraft: {fileID: 0}
+  secondaryIngredientToCraft: {fileID: 0}
+  secondsToCraft: 0
+  assemblingZone: 0
+  assemblingLayout: {fileID: 502297994224569835, guid: 7237c2fdb542a3942874e53e6016b4c6,
+    type: 3}
+  secondsToAssemble: 10

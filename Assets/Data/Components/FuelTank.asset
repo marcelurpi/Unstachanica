@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1eda4f8fcf6dca41a7cc39a3ea7151c, type: 3}
+  m_Name: FuelTank
+  m_EditorClassIdentifier: 
+  itemName: Fuel Tank
+  description: 
+  secondsToExpire: 0
+  obtainedFrom: 1
+  shopPrice: 0
+  machineToCraft: {fileID: 11400000, guid: 8720f1e611df7cb4c90ebd2eb8d55be7, type: 2}
+  primaryIngredientToCraft: {fileID: 11400000, guid: 64b78c15613e37b498cfb0666de5ffd2,
+    type: 2}
+  secondaryIngredientToCraft: {fileID: 11400000, guid: cc7a97a6540c9c947b0b2a981f5b0a8b,
+    type: 2}
+  secondsToCraft: 10
+  assemblingZone: 0
+  assemblingLayout: {fileID: 0}
+  secondsToAssemble: 0

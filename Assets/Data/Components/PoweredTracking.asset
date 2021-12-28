@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1eda4f8fcf6dca41a7cc39a3ea7151c, type: 3}
+  m_Name: PoweredTracking
+  m_EditorClassIdentifier: 
+  itemName: Powered Tracking System
+  description: 
+  secondsToExpire: 0
+  obtainedFrom: 1
+  shopPrice: 0
+  machineToCraft: {fileID: 11400000, guid: 7c207cf71cf8588418adfe7c39d84693, type: 2}
+  primaryIngredientToCraft: {fileID: 11400000, guid: 649a14c3c339b7f4cb81b8c51fe5202e,
+    type: 2}
+  secondaryIngredientToCraft: {fileID: 11400000, guid: 3a51d52e327617941b049e857e4ddd0d,
+    type: 2}
+  secondsToCraft: 10
+  assemblingZone: 0
+  assemblingLayout: {fileID: 0}
+  secondsToAssemble: 0

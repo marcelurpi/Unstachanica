@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be97298ea811cf4f81460c484b2e84b, type: 3}
+  m_Name: SteelPlate
+  m_EditorClassIdentifier: 
+  itemName: Steel Plate
+  description: A shiny, shiny plate.
+  secondsToExpire: 0
+  obtainedFrom: 1
+  shopPrice: 0
+  machineToCraft: {fileID: 11400000, guid: 6f57dc6eff482d7458d9ed8ce6b5f3a8, type: 2}
+  primaryIngredientToCraft: {fileID: 11400000, guid: b30e6fcaff401cc4ba34395548712284,
+    type: 2}
+  secondaryIngredientToCraft: {fileID: 11400000, guid: b30e6fcaff401cc4ba34395548712284,
+    type: 2}
+  secondsToCraft: 5
+  assemblingZone: 0
+  assemblingLayout: {fileID: 0}
+  secondsToAssemble: 0
